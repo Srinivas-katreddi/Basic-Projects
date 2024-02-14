@@ -1,0 +1,14 @@
+#box{
+    display: grid;
+    text-align: center;
+    background-color: rgb(17, 28, 25);
+    grid-template-columns: auto auto auto;
+    padding: 30px;
+    gap:30px;
+    
+   
+}
+#box >div{
+    background-color: rgb(244, 161, 77);
+    padding:50px;
+}
